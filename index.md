@@ -246,6 +246,7 @@ ratified-on: 10/16/16
     3. Additional members can join the External Affairs Committee for a specific task upon the approval of the Vice President of External Affairs.
 3. Meetings
     1. The External Affairs Committee shall meet regularly on a schedule decided by the Vice President of External Affairs to stay informed on the external affairs of TRIANGLE.
+
 ## Special Committees
 1. Special Committies may be formed as necessary to perform tasks that do not fall directly under the duties of an existing officer or position defined in the TRIANGLE Bylaws.
 2. Special committees can be appointed by any officer of TRIANGLE after passing a majority vote of the Executive Board.
@@ -254,6 +255,7 @@ ratified-on: 10/16/16
 # SENIORITY POINTS
 ## Purpose
 1. To accurately gauge and reward the effort members put into TRIANGLE, a seniority points system was developed.
+
 ## Awarding of Points
 1. Active members of TRIANGLE will gain one (1) point at the end of the semester for each completed academic term they are an active member.
     1. The term a member is initiated, the member will start with zero (0) points.
@@ -336,6 +338,7 @@ ratified-on: 10/16/16
 ## Board Eligibility
 1. All active members that meet the academic requirements laid out in the TRIANGLE ACADEMY POLICY, located in APPENDIX C, are eligible for membership on the Judicial Board, except active members that hold an officer position or the position of Sergeant-at-Arms.
     1. Active members participating in a cooperative education program that takes them away from Michigan Technological University shall not hold a position on the Judicial Board while on co-op.
+
 ## Elections
 1. Voter Eligibility
     1. All active members are eligible to vote for members of the Judicial Board.
